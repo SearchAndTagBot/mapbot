@@ -1,0 +1,9 @@
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\bin\Debug\RobotMappingProject.exe.config
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\bin\Debug\RobotMappingProject.exe
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\bin\Debug\RobotMappingProject.pdb
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\obj\Debug\RobotMappingProject.MainWindow.resources
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\obj\Debug\RobotMappingProject.Properties.Resources.resources
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\obj\Debug\RobotMappingProject.csproj.GenerateResource.Cache
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\obj\Debug\RobotMappingProject.exe
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\obj\Debug\RobotMappingProject.pdb
+C:\Users\wilki\onedrive\documents\visual studio 2015\Projects\RobotMappingProject\RobotMappingProject\obj\Debug\RobotMappingProject.csprojResolveAssemblyReference.cache
